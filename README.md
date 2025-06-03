@@ -80,7 +80,7 @@ Backend (API)
 1.	Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/fonttrack-app.git
+git clone https://github.com/gustavoCid1/fonttrack_react_expo.git
 
 cd fonttrack-app
 ```

@@ -36,43 +36,43 @@ Backend (API)
 /FontTrackApp
 
 ├── assets/
-|
+
 ├── components/
 |   |
 │   └── UsuarioCard.tsx
-|   |
+
 │   └── MaterialCard.tsx
-|   |
+
 │   └── LugarCard.tsx
-|   |
+
 ├── navigation/
-|
+
 │   └── StackNavigator.tsx
-|   |
+
 │   └── TabNavigator.tsx
-|   
+
 ├── screens/
-|   |
+
 │   └── UsuariosScreen.tsx
-|   |
+
 │   └── MaterialesScreen.tsx
-|   |
+
 │   └── LugaresScreen.tsx
-|
+
 ├── services/
-|   |
+
 │   └── api.ts
-|   |
+
 │   └── usuarios.ts
-|
+
 ├── types/
-|   |
+
 │   └── Usuario.ts
-|
+
 ├── App.tsx
-|
+
 ├── app.json
-|
+
 └── README.md
 
 ## ⚙️ Configuración del entorno
@@ -128,5 +128,3 @@ const api = axios.create({
 ## 🧑‍💻 Autor
 
 Desarrollado por [Jesus Felipe Aviles].
-
-"# fonttrack_react_expo" 
